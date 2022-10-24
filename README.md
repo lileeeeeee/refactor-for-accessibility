@@ -1,19 +1,18 @@
-# refactor-for-accessibility
+# Refactor for Accessibility
+
+## Description
 This is a project to update a website's existing code to meet accessibility standards.
 
-Description
-This is a project to update a website's existing code to meet accessibility standards.
-
-Installation
+## Installation
 N/A
 
-Usage
+## Usage
 This website has been updated for accessibility with the inclusion of alt text and the replacement of <div> tags with semantic html.
 
 Open the Chrome DevTools console to see the alt text or use a screen reader to hear the descriptions. 
 
-Credits
+## Credits
 N/A
 
-License
+## License
 MIT License
