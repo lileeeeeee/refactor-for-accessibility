@@ -1,34 +1,19 @@
 # refactor-for-accessibility
 This is a project to update a website's existing code to meet accessibility standards.
 
-## User Story
+Description
+This is a project to update a website's existing code to meet accessibility standards.
 
-AS A marketing agency
+Installation
+N/A
 
-I WANT a codebase that follows accessibility standards
+Usage
+This website has been updated for accessibility with the inclusion of alt text and the replacement of <div> tags with semantic html.
 
-SO THAT our own site is optimized for search engines
+Open the Chrome DevTools console to see the alt text or use a screen reader to hear the descriptions. 
 
-## Acceptance Criteria
+Credits
+N/A
 
-GIVEN a webpage meets accessibility standards
-
-WHEN I view the source code
-
-THEN I find semantic HTML elements
-
-WHEN I view the structure of the HTML elements
-
-THEN I find that the elements follow a logical structure independent of styling and positioning
-
-WHEN I view the image elements
-
-THEN I find accessible alt attributes
-
-WHEN I view the heading attributes
-
-THEN they fall in sequential order
-
-WHEN I view the title element
-
-THEN I find a concise, descriptive title
+License
+MIT License
